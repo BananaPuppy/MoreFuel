@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "morecomposting",
+	"version": "${version}",
+	"name": "More Composting",
+	"description": "Fully configure what you can compost.",
+	"authors": [
+		"BananaPuppy"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT License",
+	"icon": "assets/morecomposting/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.bruhcraft.morecomposting.MainClass"
+		]
+	},
+	"mixins": [
+      "morecomposting.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	}
+}
