@@ -14,4 +14,4 @@ Remove<br>
 > *config change requires restart*
 ### Compatibility
 This mod should be compatible with other mods.<br>
-If you find an issue, please [report](google.com) it
+If you find an issue, please [report](https://github.com/BananaPuppy/MoreComposting/issues/new/choose) it
