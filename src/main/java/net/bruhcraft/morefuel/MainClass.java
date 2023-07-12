@@ -4,7 +4,6 @@ import net.fabricmc.api.ModInitializer;
 
 import net.bruhcraft.morefuel.MyConfig;
 
-import net.fabricmc.fabric.api.registry.CompostingChanceRegistry;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
