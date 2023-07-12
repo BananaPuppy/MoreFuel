@@ -1,0 +1,6 @@
+{
+  "text.config.MoreFuel.title": "More Composting Configuration",
+
+  "text.config.MoreFuel.option.FuelItems": "Items",
+  "text.config.MoreFuel.option.FuelItems.tooltip": "you can put a '-'(minus) sign in front to remove fuel"
+}

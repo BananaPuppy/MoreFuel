@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "morecomposting",
+	"id": "morefuel",
 	"version": "${version}",
-	"name": "More Composting",
-	"description": "Fully configure what you can compost.",
+	"name": "More Fuel",
+	"description": "Fully configure what you can use as fuel.",
 	"authors": [
 		"BananaPuppy"
 	],
@@ -12,11 +12,11 @@
 		"sources": ""
 	},
 	"license": "MIT License",
-	"icon": "assets/morecomposting/icon.png",
+	"icon": "assets/morefuel/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.bruhcraft.morecomposting.MainClass"
+			"net.bruhcraft.morefuel.MainClass"
 		]
 	},
 	"mixins": [
