@@ -15,3 +15,7 @@ Remove<br>
 ### Compatibility
 This mod should be compatible with other mods.<br>
 If you find an issue, please [report](https://github.com/BananaPuppy/MoreComposting/issues/new/choose) it
+
+
+### TODO
+Don't require restart on config change?
