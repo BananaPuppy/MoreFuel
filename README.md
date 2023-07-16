@@ -1,4 +1,4 @@
-# More Fuel
+# [More Fuel](https://modrinth.com/mod/more-fuel)
 Fully configure what you can use as fuel!<br>
 
 ### Config
